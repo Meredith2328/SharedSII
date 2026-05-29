@@ -12,4 +12,4 @@
 
 Week11 在线优化与最优控制（含习题）已更新。
 
-Week12 MDP与Tabular RL理论已更新大部分内容。*（下次会从收敛性开始更新）*
+Week12 MDP与Tabular RL理论已更新。
