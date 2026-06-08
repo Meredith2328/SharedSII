@@ -8,6 +8,10 @@
 
 笔记致敬：[CodingMizore/SharedFDU: course notes for everyone](https://github.com/CodingMizore/SharedFDU)
 
+## 6/8更新
+
+Week14 PPO和RLHF已更新，但不包含习题exercise14。
+
 ## 5/28更新
 
 Week11 在线优化与最优控制（含习题）已更新。
