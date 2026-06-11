@@ -10,10 +10,10 @@
 
 ## 6/8更新
 
-Week14 PPO和RLHF已更新，但不包含习题exercise14。
+Week14 PPO和RLHF已更新，包含exercise14。
 
 ## 5/28更新
 
-Week11 在线优化与最优控制（含习题）已更新。
+Week11 在线优化与最优控制（含习题）已更新，包含exercise11。
 
 Week12 MDP与Tabular RL理论已更新。
